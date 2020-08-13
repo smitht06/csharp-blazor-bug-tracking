@@ -42,8 +42,7 @@
           <e p="IBugService.cs" t="Include" />
         </e>
         <e p="Shared" t="Include">
-          <e p="LeftNav.cshtml" t="Include" />
-          <e p="LeftNav.cshtml.cs" t="Include" />
+          <e p="LeftNav.razor" t="Include" />
           <e p="MainLayout.razor" t="Include" />
         </e>
         <e p="Startup.cs" t="Include" />
